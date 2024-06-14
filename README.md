@@ -1,7 +1,6 @@
 
-<div align="left">
-  ### Ahmed Maher
-  
+### Ahmed Maher
+
   <p align="left">
     I'm Back End Developer with 3 years experience as PHP-Laravel developer. Seeking to get opportunities, which I can use my
     skills and knowledge to learn new technoly
