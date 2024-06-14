@@ -1,15 +1,44 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<div align="left">
+  ### Ahmed Maher
 
-Skills: PHP/ Laravel / HTML / CSS / VUE JS
+  <p align="left">
+    I'm Back End Developer with 3 years experience as PHP-Laravel developer. Seeking to get opportunities, which I can use my
+    skills and knowledge to learn new technoly
+  </p>
+</div>
 
-- 🔭 I’m currently working on Scheme Code 
+### SKILL HIGHLIGHTS
+- Design and develop high-quality systems and applications according to specific requirements.
+- Design and analysis of systems, demonstrating proficiency in understanding complex business requirements,
+  conducting thorough systems analysis, and translating findings into effective system designs to enhance overall
+  efficiency and functionality.
+-Create restful API to our frontend team and some external partnerships.
 
+- Development skills in data structures, algorithms, object-oriented
+  programming (OOP)
+- Integration with third party such as (Firebase, Cartona eg, salla, Various payment gateways, agora …)
+- working on code versioning tools (Git-GitHub) and utilities like Postman, Jira, Trello, and Slack
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedmaher179200)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-maher-b93739211//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100040249070397)  
+### Education
+- Bachelor’s degree: Computer science in Akhbarelyom Acadeny 2023, very good
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmedmaher179200)  
+### EXPERIENCE
+- Scheme Code - May 2022 - Now - as a backend Developer -  Cairo, Egypt
 
+- Algorithm - August 2021 - January 2022 - as a backend Developer - Cairo, Egypt
+
+<!--
+**asemelkhouli20/asemelkhouli20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
